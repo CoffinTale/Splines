@@ -1,0 +1,16 @@
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\bin\Release\Parabolic_Curves.exe.config
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\bin\Release\Parabolic_Curves.exe.manifest
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\bin\Release\Parabolic_Curves.application
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\bin\Release\Parabolic_Curves.exe
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\bin\Release\Parabolic_Curves.pdb
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\obj\Release\Parabolic_Curves.Enter_Coordinate_Form.resources
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\obj\Release\Parabolic_Curves.Enter_From_File_Form.resources
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\obj\Release\Parabolic_Curves.Enter_From_Keyboard_Form.resources
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\obj\Release\Parabolic_Curves.Parabolic_Curves_Main_Form.resources
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\obj\Release\Parabolic_Curves.Properties.Resources.resources
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\obj\Release\Parabolic_Curves.csproj.GenerateResource.cache
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\obj\Release\Parabolic_Curves.csproj.CoreCompileInputs.cache
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\obj\Release\Parabolic_Curves.exe.manifest
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\obj\Release\Parabolic_Curves.application
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\obj\Release\Parabolic_Curves.exe
+F:\ВКР\Parabolic_Curves\Parabolic_Curves\obj\Release\Parabolic_Curves.pdb
